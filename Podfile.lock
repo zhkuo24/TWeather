@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (3.4.1)
+  - MJRefresh (3.1.9)
+  - SnapKit (0.15.0)
+  - Spring (1.0.3)
+  - SVProgressHUD (2.0.3)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - MJRefresh
+  - SnapKit (~> 0.15.0)
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift2`)
+  - SVProgressHUD (from `https://github.com/SVProgressHUD/SVProgressHUD.git`)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift2
+    :git: https://github.com/MengTo/Spring.git
+  SVProgressHUD:
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 18d5c7b74489de8044e34767f856d1e574f0820e
+    :git: https://github.com/MengTo/Spring.git
+  SVProgressHUD:
+    :commit: 6ca5946638ed5bbf8ae36e3c3191901f76bf173b
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+  SwiftyJSON:
+    :commit: 73670b94292b8d8496c398a973f56ac67789ba9f
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  MJRefresh: c5f1f1653e5a1b932c90f78074f2bc86f3f9bd5e
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 67472d60b330cb6843a7dd312f31aed70fcc5630
+
+COCOAPODS: 1.0.1
