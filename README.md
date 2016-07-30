@@ -1,9 +1,9 @@
 # TWeather
 
-![TWeatherApp](http://oaej5i484.bkt.clouddn.com/weather1.gif)
+![TWeatherApp](http://oaej5i484.bkt.clouddn.com/weatherzk1.gif)
 
 
-自学用Swift开发的一款简单的天气APP，超级简单。现已上架APPStore，[点我下载](https://itunes.apple.com/us/app/shi-yi-tian-qi/id1137566372?l=zh&ls=1&mt=8)。
+自学用Swift开发的一款简单的天气APP，超级简单。现已上架APPStore，[点我下载](https://itunes.apple.com/cn/app/shi-yi-tian-qi/id1137566372?mt=8)。
 
 
 
