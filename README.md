@@ -19,4 +19,4 @@
 
 ### 下载
 
-![诗意天气](http://http://pic.zhkuo.me/ios_notes/1469884952.png)
+![](http://pic.zhkuo.me/ios_notes/1469884952.png)
